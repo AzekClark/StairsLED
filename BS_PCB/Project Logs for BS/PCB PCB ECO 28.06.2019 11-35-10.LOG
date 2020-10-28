@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetRN1_8 Pin=RN1-8
+Added Pin To Net: NetName=NetRN1_8 Pin=VT3-3
+Added Net: Name=NetRN1_8
+Added Member To Class: ClassName=MCU Member=Component C13 0.1µF
+Added Member To Class: ClassName=MCU Member=Component R10 18k
+Added Member To Class: ClassName=MCU Member=Component R11 2k
+Added Member To Class: ClassName=LED Connection Member=Component R12 10k
+Added Member To Class: ClassName=LED Connection Member=Component R13 10k
+Added Member To Class: ClassName=LED Connection Member=Component R14 10k
+Added Member To Class: ClassName=LED Connection Member=Component R16 10k
+Added Member To Class: ClassName=LED Connection Member=Component R17 10k
+Added Member To Class: ClassName=LED Connection Member=Component R18 10k
+Added Member To Class: ClassName=LED Connection Member=Component R19 10k

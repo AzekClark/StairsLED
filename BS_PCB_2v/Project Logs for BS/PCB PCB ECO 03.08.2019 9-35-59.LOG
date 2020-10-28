@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PWM_LED1_WW Pin=D3-3
+Removed Pin From Net: NetName=PWM_LED1_RED Pin=D3-4
+Removed Pin From Net: NetName=PWM_LED1_BLUE Pin=D3-5
+Removed Pin From Net: NetName=PWM_LED1_GREEN Pin=D3-6
+Removed Pin From Net: NetName=PWM_LED2_WW Pin=D3-9
+Removed Pin From Net: NetName=PWM_LED2_RED Pin=D3-10
+Removed Pin From Net: NetName=PWM_LED2_BLUE Pin=D3-11
+Removed Pin From Net: NetName=PWM_LED2_GREEN Pin=D3-12
+Added Pin To Net: NetName=PWM_LED2_WW Pin=D3-3
+Added Pin To Net: NetName=PWM_LED2_RED Pin=D3-4
+Added Pin To Net: NetName=PWM_LED2_BLUE Pin=D3-5
+Added Pin To Net: NetName=PWM_LED2_GREEN Pin=D3-6
+Added Pin To Net: NetName=PWM_LED1_WW Pin=D3-9
+Added Pin To Net: NetName=PWM_LED1_RED Pin=D3-10
+Added Pin To Net: NetName=PWM_LED1_BLUE Pin=D3-11
+Added Pin To Net: NetName=PWM_LED1_GREEN Pin=D3-12

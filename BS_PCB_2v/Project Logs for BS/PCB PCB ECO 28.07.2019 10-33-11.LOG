@@ -1,0 +1,14 @@
+Change Component Comment : Designator=D2 Old Comment=MCP6001T New Comment=MCP6051T-E/OT
+Change component parameters: Designator = "D2"; Footprint = "SOT23-5"; UniqueID = "\UJNLRIJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/microchip-technology/MCP6001T-I-OT/MCP6001T-I-OTCT-ND/697158"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MCP6051T-E/OT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "32-UFQFPN"; UniqueID = "\ZEVVYTWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = "UFQFPN28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/datasheet/2/389/stm8l151c4-956418.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "STM8L151KxU6"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetD3_14 New Net Name=DCDC_ISENSE

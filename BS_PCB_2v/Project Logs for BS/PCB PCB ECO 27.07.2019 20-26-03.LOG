@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCCLED Pin=R14-2
+Removed Pin From Net: NetName=NetC4_1 Pin=R15-2
+Change Component Footprint: Designator=R7 Old Footprint=CH2512R New Footprint=SHNT: CRA2512
+Change component parameters: Designator = "R7"; Footprint = "SHNT: CRA2512"; UniqueID = "\VRPESGGJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://static6.arrow.com/aropdfconversion/58bb460c8d6e9e02f20276cbc5e1de2f00a5855b/815cra.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "CRA2512-FZ-R010ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR7_3 Pin=R7-3
+Added Pin To Net: NetName=NetR7_3 Pin=R15-2
+Added Net: Name=NetR7_3
+Added Pin To Net: NetName=NetR7_4 Pin=R7-4
+Added Pin To Net: NetName=NetR7_4 Pin=R14-2
+Added Net: Name=NetR7_4

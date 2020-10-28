@@ -1,0 +1,30 @@
+Added Pin To Net: NetName=PWM_LED1_GREEN Pin=R12-2
+Added Pin To Net: NetName=PWM_LED1_BLUE Pin=R13-2
+Added Pin To Net: NetName=PWM_LED1_RED Pin=R14-2
+Added Pin To Net: NetName=PWM_LED1_WW Pin=R15-2
+Added Pin To Net: NetName=PWM_LED2_GREEN Pin=R16-2
+Added Pin To Net: NetName=PWM_LED2_BLUE Pin=R17-2
+Added Pin To Net: NetName=PWM_LED2_RED Pin=R18-2
+Added Pin To Net: NetName=PWM_LED2_WW Pin=R19-2
+Added Pin To Net: NetName=NetRN1_5 Pin=RN1-5
+Added Pin To Net: NetName=NetRN1_5 Pin=VT6-3
+Added Net: Name=NetRN1_5
+Added Pin To Net: NetName=NetRN1_6 Pin=RN1-6
+Added Pin To Net: NetName=NetRN1_6 Pin=VT5-3
+Added Net: Name=NetRN1_6
+Added Pin To Net: NetName=NetRN1_7 Pin=RN1-7
+Added Pin To Net: NetName=NetRN1_7 Pin=VT4-3
+Added Net: Name=NetRN1_7
+Added Pin To Net: NetName=NetRN3_5 Pin=RN3-5
+Added Pin To Net: NetName=NetRN3_5 Pin=VT10-3
+Added Net: Name=NetRN3_5
+Added Pin To Net: NetName=NetRN3_6 Pin=RN3-6
+Added Pin To Net: NetName=NetRN3_6 Pin=VT9-3
+Added Net: Name=NetRN3_6
+Added Pin To Net: NetName=NetRN3_7 Pin=RN3-7
+Added Pin To Net: NetName=NetRN3_7 Pin=VT8-3
+Added Net: Name=NetRN3_7
+Added Pin To Net: NetName=NetRN3_8 Pin=RN3-8
+Added Pin To Net: NetName=NetRN3_8 Pin=VT7-3
+Added Net: Name=NetRN3_8
+Added Member To Class: ClassName=LED Connection Member=Component R15 10k

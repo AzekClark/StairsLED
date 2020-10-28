@@ -1,0 +1,9 @@
+Added Component: Designator=D1(SOT89_123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = "SOT-89, 100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.st.com/resource/en/datasheet/l78l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "L78L33ACUTR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC33 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VCCIN Pin=D1-3

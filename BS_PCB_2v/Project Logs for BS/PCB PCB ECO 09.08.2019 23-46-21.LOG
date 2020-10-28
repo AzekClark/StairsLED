@@ -1,0 +1,32 @@
+Added Component: Designator=D3(32-UFQFPN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = "UFQFPN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/datasheet/2/389/stm8l151c4-956418.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "STM8L151GxU6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-0
+Added Pin To Net: NetName=STM8_RST Pin=D3-1
+Added Pin To Net: NetName=PWM_LED2_WW Pin=D3-3
+Added Pin To Net: NetName=PWM_LED2_RED Pin=D3-4
+Added Pin To Net: NetName=PWM_LED2_BLUE Pin=D3-5
+Added Pin To Net: NetName=PWM_LED2_GREEN Pin=D3-6
+Added Pin To Net: NetName=GND Pin=D3-7
+Added Pin To Net: NetName=VCC33 Pin=D3-8
+Added Pin To Net: NetName=PWM_LED1_WW Pin=D3-9
+Added Pin To Net: NetName=PWM_LED1_RED Pin=D3-10
+Added Pin To Net: NetName=PWM_LED1_BLUE Pin=D3-11
+Added Pin To Net: NetName=PWM_LED1_GREEN Pin=D3-12
+Added Pin To Net: NetName=DCDC_ISENSE Pin=D3-14
+Added Pin To Net: NetName=DCDC_ADC_VFB Pin=D3-15
+Added Pin To Net: NetName=DCDC_PWM_N Pin=D3-16
+Added Pin To Net: NetName=IRRANGE_ADC_1 Pin=D3-17
+Added Pin To Net: NetName=IRRANGE_ADC_2 Pin=D3-18
+Added Pin To Net: NetName=IRRANGE_ADC_3 Pin=D3-19
+Added Pin To Net: NetName=IRRANGE_LEDs Pin=D3-20
+Added Pin To Net: NetName=DCDC_PWM_P Pin=D3-21
+Added Pin To Net: NetName=STM8_STATUS Pin=D3-23
+Added Pin To Net: NetName=DCDC_VINSENSE Pin=D3-24
+Added Pin To Net: NetName=STM8_I2C_SDA Pin=D3-25
+Added Pin To Net: NetName=STM8_I2C_SCL Pin=D3-26
+Added Pin To Net: NetName=STM8_SWIM Pin=D3-32
+Added Member To Class: ClassName=MCU Member=Component D3 STM8L151KxU6

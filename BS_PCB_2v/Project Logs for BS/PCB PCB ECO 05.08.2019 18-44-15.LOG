@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=VCC33 Pin=D1-2
+Removed Pin From Net: NetName=VCC33 Pin=D1-4
+Change Component Footprint: Designator=D1 Old Footprint=SOT223 New Footprint=SOT89_123
+Change Component Comment : Designator=D1 Old Comment=AMS1117-x.x New Comment=L78L33ACUTR
+Change component parameters: Designator = "D1"; Footprint = "SOT89_123"; UniqueID = "\RACOKCXG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = "SOT-89, 100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.st.com/resource/en/datasheet/l78l.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "L78L33ACUTR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC33 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
