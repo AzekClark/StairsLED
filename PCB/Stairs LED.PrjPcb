@@ -56,22 +56,30 @@ GenerateClassCluster=0
 DocumentUniqueId=SUQPEKPF
 
 [Parameter1]
-Name=ProjectTitle
-Value=??
+Name=ProjectShortDate
+Value=2020.10
 
 [Parameter2]
+Name=ProjectTitle
+Value=RGB LED strip controller with Ultrasonic sensor
+
+[Parameter3]
 Name=ProjectRevision
 Value=003
 
-[Parameter3]
+[Parameter4]
 Name=ProjectNumber
 Value=StairsLED
 
-[Parameter4]
+[Parameter5]
+Name=ProjectDate
+Value=29.10.2020
+
+[Parameter6]
 Name=ProjectCompanyName
 Value=Azek Clark © 2020
 
-[Parameter5]
+[Parameter7]
 Name=ProjectAuthor
 Value=Clark A.
 
