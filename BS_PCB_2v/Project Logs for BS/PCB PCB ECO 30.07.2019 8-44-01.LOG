@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=IRRANGE_LEDs Pin=RN4-5
-Removed Pin From Net: NetName=IRRANGE_ADC_3 Pin=RN4-6
-Removed Pin From Net: NetName=IRRANGE_ADC_2 Pin=RN4-7
-Removed Pin From Net: NetName=IRRANGE_ADC_1 Pin=RN4-8
-Added Pin To Net: NetName=IRRANGE_ADC_3 Pin=RN4-5
-Added Pin To Net: NetName=IRRANGE_ADC_2 Pin=RN4-6
-Added Pin To Net: NetName=IRRANGE_ADC_1 Pin=RN4-7
-Added Pin To Net: NetName=IRRANGE_LEDs Pin=RN4-8

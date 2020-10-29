@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=GND Pin=VT3-3
-Added Pin To Net: NetName=LED_CH1_GREEN Pin=VT3-3
-Added Net: Name=LED_CH1_GREEN
-Added Pin To Net: NetName=VCC Pin=VT3-1
-Added Net: Name=VCC

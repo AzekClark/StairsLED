@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=STM8_STATUS Pin=R28-1
-Removed Pin From Net: NetName=VCC33 Pin=VD1-1
-Added Pin To Net: NetName=VCC33 Pin=R28-2
-Added Pin To Net: NetName=STM8_STATUS Pin=VD1-2
-Added Pin To Net: NetName=NetR28_1 Pin=R28-1
-Added Pin To Net: NetName=NetR28_1 Pin=VD1-1
-Added Net: Name=NetR28_1

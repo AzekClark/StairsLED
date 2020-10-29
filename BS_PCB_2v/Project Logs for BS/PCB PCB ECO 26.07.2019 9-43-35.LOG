@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetRN2_8 Pin=VT8-1
-Removed Pin From Net: NetName=NetRN2_7 Pin=VT9-1
-Removed Pin From Net: NetName=NetRN2_6 Pin=VT10-1
-Removed Pin From Net: NetName=NetRN2_5 Pin=VT11-1
-Added Pin To Net: NetName=NetRN2_5 Pin=VT8-1
-Added Pin To Net: NetName=NetRN2_6 Pin=VT9-1
-Added Pin To Net: NetName=NetRN2_7 Pin=VT10-1
-Added Pin To Net: NetName=NetRN2_8 Pin=VT11-1
