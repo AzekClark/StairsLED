@@ -55,33 +55,67 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SUQPEKPF
 
+[Document2]
+DocumentPath=Schematics\RS485.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NNMEFNHN
+
+[Document3]
+DocumentPath=Schematics\PWM-SOT23.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IMGZBSYR
+
 [Parameter1]
-Name=ProjectShortDate
-Value=2020.10
+Name=ProjectAuthor
+Value=Clark A.
 
 [Parameter2]
-Name=ProjectTitle
-Value=RGB LED strip controller with Ultrasonic sensor
+Name=ProjectCompanyName
+Value=Azek Clark © 2020
 
 [Parameter3]
-Name=ProjectRevision
-Value=003
+Name=ProjectDate
+Value=29.10.2020
 
 [Parameter4]
 Name=ProjectNumber
 Value=StairsLED
 
 [Parameter5]
-Name=ProjectDate
-Value=29.10.2020
+Name=ProjectRevision
+Value=003
 
 [Parameter6]
-Name=ProjectCompanyName
-Value=Azek Clark © 2020
+Name=ProjectShortDate
+Value=2020.10
 
 [Parameter7]
-Name=ProjectAuthor
-Value=Clark A.
+Name=ProjectTitle
+Value=RGB LED strip controller with Ultrasonic sensor
 
 [Configuration1]
 Name=Sources
