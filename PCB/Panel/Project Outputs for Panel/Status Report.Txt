@@ -1,0 +1,12 @@
+Source PCB Design PanelPCB.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [Panel.PrjPcb]
+   Generated File[PanelPCB.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:01:36 On 07.11.2020
