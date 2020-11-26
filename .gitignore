@@ -1,7 +1,11 @@
+#Solidworks ignore files
+**/STL
+
 # Altium ignore files
 **/History
 **/__Previews
 **/Logs
+**/Outputs
 
 # Prerequisites
 *.d
