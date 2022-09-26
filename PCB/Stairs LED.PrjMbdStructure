@@ -1,4 +1,0 @@
-Record=DiagramHierarchy|SourceDocument=MultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=StairsLED-DCDC|Source=..\Stairs LED DCDC.PrjPcb
-Record=SubProject|SourceDocument=MultiBoard.MbsDoc|ProjectPath=..\Stairs LED DCDC.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=StairsLED-Main|Source=..\Stairs LED Main.PrjPcb
-Record=SubProject|SourceDocument=MultiBoard.MbsDoc|ProjectPath=..\Stairs LED Main.PrjPcb

@@ -1,11 +1,27 @@
+#Project igre folders
+**/.test
+**/.temp
+/Variants
+
+#AutoCAD ignore files
+*.bak
+
 #Solidworks ignore files
 **/STL
+*.stl
+~$*.sldprt
+~$*.sldasm
 
 # Altium ignore files
 **/History
 **/__Previews
 **/Logs
 **/Outputs
+**/Project Outputs for */
+*.PrjPcbStructure
+*.PrjMbdStructure
+*.PrjPcbVariants
+
 
 # Prerequisites
 *.d

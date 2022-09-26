@@ -1,8 +1,0 @@
-DRC Rules Export File for PCB: E:\OneDrive\Projects\StairsLED\PCB\Panel\PanelPCB.PcbDoc
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
-RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance_MultiLayerPad|Scope=Board|Minimum=9.84
-RuleKind=Clearance|RuleName=Clearance_NPTH|Scope=Board|Minimum=15.75
